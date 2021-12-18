@@ -1,0 +1,39 @@
+{
+    "IMGBB_TOKEN":"TOKEN_IMGBB_HERE",
+    "BOT_TOKEN":"TOKEN_TELEGRAM_BOT_HERE",
+    "API":{
+        "imgbb":"https://api.imgbb.com/1/upload",
+        "gato":"https://aws.random.cat/meow",
+        "pato":"https://random-d.uk/api/v2/random",
+        "fox":"https://randomfox.ca/floof/",
+        "dog":"https://dog.ceo/api/breeds/image/random",
+        "dolar":"https://economia.awesomeapi.com.br/last/USD-BRL",
+        "slp":"https://api.coingecko.com/api/v3/simple/price?ids=smooth-love-potion&vs_currencies=brl",
+        "bitcoin":"https://economia.awesomeapi.com.br/last/BTC-BRL"
+
+    },
+    "headers":{
+
+        "libgen": {
+            "user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+            "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        },
+        "ifunny": {
+            "user-agent" : "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+            "accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        }
+    },
+    "cookies":
+    {        
+        "libgen":
+        {
+            "lg_topic":"libgen"
+        }
+    },
+    
+    "dono":
+    {
+        "ID": "YOUR_ID_OWNER"
+    }
+
+}
